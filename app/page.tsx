@@ -10,7 +10,7 @@ const categories: { value: Category | 'all'; label: string }[] = [
   { value: 'all', label: 'Todos' },
   { value: 'running', label: 'Running' },
   { value: 'casual', label: 'Casual' },
-  { value: 'formal', label: 'Formal' },
+  { value: 'botines', label: 'Botines' },
   { value: 'deportivo', label: 'Deportivo' },
 ];
 
